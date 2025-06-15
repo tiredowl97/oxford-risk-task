@@ -34,7 +34,7 @@
 | File                                | Description                                      |
 |-------------------------------------|--------------------------------------------------|
 | `oxfordrisk.py`                     | Main Python script                               |
-| `EDA_summary.md`                    | Written analysis summary                         |
+| `ED Summary.md`                    | Written analysis summary                         |
 | `Figure_1.png`                      | Risk Tolerance Distribution                      |
 | `Figure_2.png`                      | Currency Countplot                               |
 | `Figure_3.png`                      | Log Asset Value by Currency                      |
@@ -56,5 +56,5 @@
 
 ## 🙋 About Me
 
-I'm a Master's student in Cognitive and Decision Sciences with a strong interest in behavioral finance and data-driven insight. This project reflects my enthusiasm for understanding how psychology influences financial decisions.
+I'm a Master's student in Cognitive and Decision Sciences with a strong interest in Human Decision Making and understanding Behaviour in different contexts.
 
